@@ -1,4 +1,3 @@
-import "../../styles/EventCard.css";
 import CardHeader from "../molecules/CardHeader";
 import CardContent from "../molecules/CardContent";
 import CardFooter from "../molecules/CardFooter";
@@ -34,12 +33,12 @@ const EventCard = ({
   bookings: number;
 }) => {
   return (
-    <div className="card">
+    <div className="flex flex-col justify-center items-start gap-3 w-[345px] lg:w-[400px] p-4 rounded-[8px] border border-[#E4ECF2] bg-white flex-none">
       {/* Header Section: Displays title, category, month, and day */}
       <CardHeader title={title} category={category} month={month} day={day} />
 
       {/* Info Section: Contains event details */}
-      <div className="info">
+      <div className="flex flex-col items-start gap-4 self-stretch">
         <CardContent dateRange={dateRange} />
         <CardFooter bookings={bookings} />
       </div>

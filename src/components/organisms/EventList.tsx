@@ -1,42 +1,82 @@
 "use client";
-import "../../styles/EventList.css";
+import React from "react";
 import EventCard from "../organisms/EventCard";
 
-/**
- * EventList Component
- *
- * This component renders a list of event cards grouped under a section with a title.
- * The title is visually styled with a color based on the index of the event list.
- *
- * @param {string} name - The name of the event group.
- * @param {any[]} events - The array of event objects to be displayed.
- * @param {number} index - The index of the event list (used for assigning colors).
- */
-const EventList = ({ name, events, index }: { name: string; events: any[]; index: number }) => {
-  // Assign a color to the event title based on the index of the event list
+interface EventListProps {
+  name: string;
+  events: any[];
+  index: number;
+}
+
+const EventList = ({ name, events, index }: EventListProps) => {
+  // Choose theme based on index (green if even, purple if odd)
   const assignedColor = index % 2 === 0 ? "green" : "purple";
 
   return (
-    <div className="events ">
-      {/* Render the event title if there are events in the group */}
+    <div className="flex flex-col items-center justify-center w-full gap-4 pb-4">
+      {/* Render the event title if there are events */}
       {events.length > 0 && (
-        <div className="event-title">
-          <hr className={`first-line ${assignedColor === "green" ? "first-line-green" : "first-line-purple"}`} />
-          <h2 className={`event-name ${assignedColor === "green" ? "event-name-green" : "event-name-purple"}`}>
+        <div className="flex items-center gap-5 self-stretch justify-center">
+          {/* First horizontal line */}
+          <hr
+            className={`w-[533px] h-px border-0 bg-gradient-to-r ${
+              assignedColor === "green"
+                ? "from-[rgba(0,194,166,0)] to-accent-green"
+                : "from-[rgba(103,7,253,0)] to-accent-purple"
+            }`}
+          />
+          {/* Title element */}
+          <h2
+            className={`flex-none flex justify-center items-center gap-2 px-2 py-1.5 rounded border text-center text-sm font-semibold leading-5 font-poppins tracking-wide ${
+              assignedColor === "green"
+                ? "border-accent-green bg-light-green-bg text-accent-green"
+                : "border-accent-purple bg-light-purple-bg text-accent-purple"
+            }`}
+          >
             {name}
           </h2>
-          <hr className={`second-line ${assignedColor === "green" ? "second-line-green" : "second-line-purple"}`} />
+          {/* Second horizontal line */}
+          <hr
+            className={`w-[533px] h-px border-0 bg-gradient-to-r ${
+              assignedColor === "green"
+                ? "from-accent-green to-[rgba(0,194,166,0)]"
+                : "from-accent-purple to-[rgba(103,7,253,0)]"
+            }`}
+          />
         </div>
       )}
 
-      {/* Render the event cards inside a row container */}
-      <div className="event-cards">
-        <div className="event-row custom-scrollbar">
+      {/* Event cards container */}
+      <div className="flex flex-col items-center gap-4 self-stretch w-full max-w-full">
+        <div className="flex items-center gap-4 self-stretch overflow-x-auto px-4 lg:px-8 pb-8 transition duration-700 ease-in-out custom-scrollbar">
           {events.map((event, idx) => (
             <EventCard key={idx} {...event} />
           ))}
         </div>
       </div>
+
+      {/* Embedded custom scrollbar styling */}
+      <style jsx global>{`
+        .custom-scrollbar::-webkit-scrollbar {
+          height: 16px;
+          transition: all 700ms ease-in-out;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track-piece {
+          background: #cdd4e5;
+          border-radius: 9999px;
+          margin: 0 32px;
+          border-width: 6px 2px 6px 2px;
+          border-color: #f9fbff;
+          border-style: solid;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+          background-color: #cdd4e5;
+          border-radius: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-button {
+          display: none;
+        }
+      `}</style>
     </div>
   );
 };

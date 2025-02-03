@@ -1,17 +1,18 @@
-import "../../styles/ViewAgreementButton.css";
-
 /**
  * ViewAgreementButton Component
  *
  * This component renders an icon button that allows users to view an agreement in PDF format.
  * The button is styled to match the UI design and includes a tooltip on hover.
  */
-
-const ViewAgreementButton = () => {
+ const ViewAgreementButton = () => {
   return (
-    <div className="view-agreement" title="Show Agreement as PDF">
+    <div
+      className="flex justify-center items-center gap-[10px] w-[40px] p-[8px] pr-[5px] rounded-[8px] border-[1.5px] border-[#4323FF]"
+      title="Show Agreement as PDF"
+    >
       {/* Agreement Icon */}
       <svg
+        className="w-[24px] h-[24px] flex-shrink-0"
         xmlns="http://www.w3.org/2000/svg"
         width="24"
         height="24"

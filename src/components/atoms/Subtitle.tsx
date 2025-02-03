@@ -1,5 +1,3 @@
-import "../../styles/Subtitle.css";
-
 /**
  * Subtitle Component
  *
@@ -9,15 +7,16 @@ import "../../styles/Subtitle.css";
  * @param {string} text - The subtitle text content.
  * @param {boolean} [bold=false] - Determines whether the second part of the text should be bold.
  */
-
-const Subtitle = ({ text, bold = false }: { text: string; bold?: boolean }) => {
-  // Splitting at ": " to separate the label from the value
+ const Subtitle = ({ text, bold = false }: { text: string; bold?: boolean }) => {
+  // Split the text at ": " to separate the label from the value.
   const parts = text.split(": ");
 
   return (
-    <p className="subtitle">
+    <p className="text-sm font-medium leading-[20px] text-[rgba(20,20,22,0.80)]">
       {parts[0]}:{" "}
-      <span className="subtitle-bold">{parts[1]}</span>
+      <span className={bold ? "font-extrabold" : ""}>
+        {parts[1]}
+      </span>
     </p>
   );
 };

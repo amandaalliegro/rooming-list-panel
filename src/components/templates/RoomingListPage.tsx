@@ -1,6 +1,5 @@
 "use client";
 import { useState, useEffect } from "react";
-import "../../styles/RoomingListPage.css";
 import data from "../../data/test-data.json";
 import SearchBar from "../atoms/SearchBar";
 import FilterButton from "../atoms/FilterButton";
@@ -11,7 +10,7 @@ import { filterEvents } from "../../utils/filterUtils";
 
 /**
  * RoomingListPage Component
- * 
+ *
  * This component is responsible for displaying a list of rooming events. 
  * It provides a search bar and filter functionality, allowing users to filter events based on status.
  * The component processes event data, applies formatting, and renders the filtered event lists.
@@ -31,7 +30,7 @@ const RoomingListPage = () => {
 
   /**
    * useEffect Hook - Initializes and processes event data when the component mounts.
-   * 
+   *
    * - Ensures the component only renders on the client to prevent hydration mismatches.
    * - Parses the event data, extracts relevant fields, and groups them by event name.
    * - Uses `formatDate` for consistent date formatting.
@@ -74,12 +73,20 @@ const RoomingListPage = () => {
   const filteredEvents = filterEvents(eventsData, searchQuery, selectedFilters);
 
   return (
-    <div className="page-container">
-      <div className="page-header">
-        <h1 className="page-title">Rooming List Management: Events</h1>
+    <div className="flex flex-col items-center w-full max-w-none pb-4 pt-2 lg:pb-8 lg:pt-6">
+      <div className="flex flex-col items-start gap-8 self-stretch m-6 lg:m-8 lg:mb-6">
+        <h1
+          className="self-stretch text-primary-text text-[32px] tracking-[1px] font-normal leading-[32px] font-[Poppins]"
+          style={{
+            WebkitTextStroke: "1.5px #141416",
+            textStroke: "1.5px #141416",
+          }}
+        >
+          Rooming List Management: Events
+        </h1>
 
         {/* Search Bar and Filters */}
-        <div className="filter-container">
+        <div className="flex items-start gap-4 self-start">
           <SearchBar onSearch={setSearchQuery} />
           <FilterButton onFilterChange={setSelectedFilters} />
         </div>

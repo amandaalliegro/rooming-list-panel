@@ -1,3 +1,7 @@
+import DateBadge from "../atoms/DateBadge";
+import Title from "../atoms/Title";
+import Subtitle from "../atoms/Subtitle";
+
 /**
  * CardHeader Component
  *
@@ -10,35 +14,29 @@
  * @param {string} props.month - The month of the cut-off date.
  * @param {string} props.day - The day of the cut-off date.
  */
- import "../../styles/CardHeader.css";
- import DateBadge from "../atoms/DateBadge";
- import Title from "../atoms/Title";
- import Subtitle from "../atoms/Subtitle";
- 
- const CardHeader = ({
-   title,
-   category,
-   month,
-   day,
- }: {
-   title: string;
-   category: string;
-   month: string;
-   day: string;
- }) => {
-   return (
-     <div className="header-box">
-       {/* Title and Agreement Type */}
-       <div className="title-subtitle">
-         <Title title={title} />
-         <Subtitle text={`Agreement: ${category}`} bold={true} />
-       </div>
- 
-       {/* Cut-Off Date Display */}
-       <DateBadge month={month} day={day} />
-     </div>
-   );
- };
- 
- export default CardHeader;
- 
+const CardHeader = ({
+  title,
+  category,
+  month,
+  day,
+}: {
+  title: string;
+  category: string;
+  month: string;
+  day: string;
+}) => {
+  return (
+    <div className="flex items-center gap-4 self-stretch">
+      {/* Title and Agreement Type */}
+      <div className="flex flex-col items-start gap-1 flex-[1_0_0]">
+        <Title title={title} />
+        <Subtitle text={`Agreement: ${category}`} bold={true} />
+      </div>
+
+      {/* Cut-Off Date Display */}
+      <DateBadge month={month} day={day} />
+    </div>
+  );
+};
+
+export default CardHeader;

@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#F9FBFF] w-full flex flex-col items-center max-w-none;
+  @apply bg-page-bg w-full flex flex-col items-center max-w-none;
 }

@@ -1,7 +1,5 @@
 "use client";
 
-import "../../styles/CardContent.css";
-
 /**
  * CardContent Component
  *
@@ -10,13 +8,12 @@ import "../../styles/CardContent.css";
  * @param {Object} props - The component props.
  * @param {string} props.dateRange - The formatted date range of the event.
  */
-
 const CardContent = ({ dateRange }: { dateRange: string }) => {
   return (
-    <div className="date-calendar">
+    <div className="flex items-center gap-1">
       {/* Calendar Icon */}
       <svg
-        className="date-icon"
+        className="w-[12px] h-[13.833px] flex-shrink-0"
         xmlns="http://www.w3.org/2000/svg"
         width="12"
         height="15"
@@ -32,7 +29,9 @@ const CardContent = ({ dateRange }: { dateRange: string }) => {
       </svg>
 
       {/* Display Date Range */}
-      <p className="date-range">{dateRange}</p>
+      <p className="text-muted-gray text-xs font-normal leading-[16px] font-[Poppins]">
+        {dateRange}
+      </p>
     </div>
   );
 };
