@@ -14,7 +14,7 @@ This is a **Next.js + TypeScript** project designed for managing rooming lists e
 ![Dropdown Menu Opened](public/screenshots/Filters_dropdown.png)
 
 ### Filters Button Clicked with Closed Selected
-![Dropdown Menu Opened Closed Selected](public/screenshots/Filters_closed.png)
+![Dropdown Menu Opened Closed Selected](public/screenshots/Filter_closed.png)
 
 ### Search Engine
 ![Search Engine](public/screenshots/Search_leisure.png)
