@@ -68,11 +68,6 @@ border-style: solid;
   border-radius: 4px;
 }
 
-.custom-scrollbar::-webkit-scrollbar-thumb:hover {
-  background-color: #3E88F7;
-    border-radius: 25px;
-}
-
 .custom-scrollbar::-webkit-scrollbar-button {
 display: none;
 }
