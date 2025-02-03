@@ -60,8 +60,7 @@ export default {
             backgroundPosition:
               "calc(50% - 20px) center, center center, calc(50% + 20px) center",
             borderRadius: "4px",
-            transition:
-              "background-position 0.3s ease-in-out, border-radius 0.3s ease-in-out, background-color 0.3s ease-in-out",
+            transition: "all 0.3s ease-in-out", 
             "&:hover": {
               backgroundPosition:
                 "calc(50% - 30px) center, center center, calc(50% + 30px) center",

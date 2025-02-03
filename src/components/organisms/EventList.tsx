@@ -48,7 +48,7 @@ const EventList = ({ name, events, index }: EventListProps) => {
 
       {/* Event cards container */}
       <div className="flex flex-col items-center gap-4 self-stretch w-full max-w-full">
-        <div className="flex items-center gap-4 self-stretch overflow-x-auto px-4 lg:px-8 pb-8 transition duration-700 ease-in-out custom-scrollbar">
+        <div className="flex items-center gap-4 self-stretch overflow-x-auto px-4 lg:px-8 pb-8 transition-all duration-700 ease-in-out custom-scrollbar">
           {events.map((event, idx) => (
             <EventCard key={idx} {...event} />
           ))}
