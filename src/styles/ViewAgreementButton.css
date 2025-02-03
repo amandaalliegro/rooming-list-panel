@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .view-agreement {
+    @apply flex justify-center items-center gap-[10px] 
+           w-[40px] p-[8px] pr-[5px] rounded-[8px] 
+           border-[1.5px] border-[#4323FF];
+  }
+
+  .view-agreement-icon {
+    @apply w-[24px] h-[24px] flex-shrink-0;
+  }
+}

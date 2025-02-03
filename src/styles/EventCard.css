@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card {
+    @apply flex flex-col justify-center items-start gap-3 
+           w-[345px] lg:w-[400px] p-4 rounded-[8px] 
+           border border-[#E4ECF2] bg-white flex-none;
+
+    @apply sm:w-[350px] ;
+  }
+
+  .info {
+    @apply flex flex-col items-start gap-4 self-stretch;
+  }
+}

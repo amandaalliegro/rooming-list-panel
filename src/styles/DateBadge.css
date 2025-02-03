@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .date-badge {
+    @apply flex flex-col items-center gap-1;
+  }
+
+  .date-badge-cutoff {
+    @apply flex flex-col items-center w-[56px] bg-white rounded-[8px];
+  }
+
+  .date-badge-month {
+    @apply flex justify-center items-center px-[10px] py-[2px] gap-[10px] self-stretch
+           rounded-t-[8px] bg-[rgba(62,140,255,0.25)]
+           text-[#3E8CFF] text-[12px] font-semibold tracking-[1px] uppercase
+           leading-[12px] font-poppins;
+  }
+
+  .date-badge-day {
+    @apply flex flex-col justify-center items-center px-[10px] py-[4px] gap-[10px] self-stretch
+           rounded-b-[8px] bg-[rgba(62,140,255,0.1)]
+           text-[#3E8CFF] text-[26px] font-bold uppercase text-center
+           leading-[24px] font-poppins;
+  }
+
+  .date-badge-label {
+    @apply text-[#777E90] text-[12px] font-medium leading-[16px] font-poppins;
+  }
+}

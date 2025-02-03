@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Rooming List Panel
+This is a Next.js + TypeScript project designed for managing rooming lists efficiently. It features a clean UI built with Tailwind CSS, and follows an atomic design pattern to organize components.
 
-## Getting Started
+🚀 Features
+Next.js 13+ (App Router)
+TypeScript for type safety
+Atomic Design structure (atoms, molecules, organisms, templates)
+Tailwind CSS for styling
+Custom Scrollbar with tailwind-scrollbar
+Modular Components (Event Cards, Filters, Search Bar)
+JSON Data Handling (Test Data in data/ directory)
+Reusable Utility Functions (utils/ directory)
+📂 Project Structure
+ruby
+Copiar
+Editar
+rooming-list-panel/
+│── public/                   # Static assets (favicon, images)
+│── src/
+│   ├── app/                   # Next.js app router (layout.tsx, page.tsx)
+│   ├── components/            # UI components
+│   │   ├── atoms/             # Smallest UI elements (buttons, inputs)
+│   │   ├── molecules/         # Components combining atoms (cards, headers)
+│   │   ├── organisms/         # More complex UI components (event lists)
+│   │   ├── templates/         # Page-level layouts
+│   ├── data/                  # Test JSON data
+│   ├── styles/                # Tailwind-based component styles
+│   ├── utils/                 # Utility functions (formatting, filtering)
+│── .gitignore                 # Git ignored files
+│── package.json               # Dependencies and scripts
+│── tailwind.config.ts         # Tailwind CSS configuration
+│── next.config.ts             # Next.js configuration
+│── README.md                  # Project documentation
+🛠 Installation & Setup
+Clone the Repository
 
-First, run the development server:
+sh
+Copiar
+Editar
+git clone https://github.com/YOUR_GITHUB_USERNAME/rooming-list-panel.git
+cd rooming-list-panel
+Install Dependencies
 
-```bash
+sh
+Copiar
+Editar
+npm install
+Run the Development Server
+
+sh
+Copiar
+Editar
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Open in Browser
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit http://localhost:3000 to see the app in action.
+📦 Dependencies
+Next.js – React framework
+TypeScript – Static typing
+Tailwind CSS – Utility-first styling
+tailwind-scrollbar – Custom scrollbar styling
+🖌 Styling & UI Components
+The project follows an atomic design pattern:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Atoms: Smallest UI elements (buttons, text, inputs)
+Molecules: Groups of atoms (cards, headers)
+Organisms: Full sections of the UI (event lists)
+Templates: Page-level components
+Tailwind CSS is used for styling, with component styles located in the styles/ directory.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📜 Utility Functions
+Located in src/utils/:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+formatDate.ts → Handles date formatting
+filterUtils.ts → Filters events based on search and status
+statusMap.ts → Maps event status IDs to readable labels

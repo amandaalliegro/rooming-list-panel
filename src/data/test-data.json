@@ -1,0 +1,2325 @@
+[
+  {
+    "id": 1,
+    "status_id": 1,
+    "rfp_id": 8711,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-01-31T08:22:44",
+    "modified_at": "2025-03-01T07:56:31",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d0b7625c42bf8b675",
+        "primary_guest": "Tania Klein",
+        "roommates": "Rivas Hoover",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T02:12:33",
+        "booking_date": "2025-01-27T02:54:31"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d8ed6857ecd34d6c1",
+        "primary_guest": "Charity Bush",
+        "roommates": "Sofia Roberson",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T05:08:00",
+        "booking_date": "2025-02-07T05:17:10"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d2f91c4a609a54a97",
+        "primary_guest": "Trina Kirk",
+        "roommates": "Maryanne Green",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T12:46:40",
+        "booking_date": "2025-02-01T01:07:11"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d23cc68fcde460afb",
+        "primary_guest": "Eva Rodriguez",
+        "roommates": "Geneva Daniels",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T09:51:45",
+        "booking_date": "2025-02-04T01:20:48"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2025-1-67941f7d10c41af11e83da2c",
+      "event_name": "Ultra Festival",
+      "event_internal_name": "All-Access - Some Charity Event",
+      "event_start_date": "2025-11-01T01:50:17",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/109/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 2,
+    "status_id": 1,
+    "rfp_id": 20288,
+    "hotel_id": 1,
+    "platform_id": 1,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-03-26T07:46:50",
+    "modified_at": "2025-04-10T11:13:41",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7dea36266e23b88590",
+        "primary_guest": "Morrison Garrett",
+        "roommates": "Barnett Ramsey",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T04:45:01",
+        "booking_date": "2025-01-26T04:36:38"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7dafb6f571cfb22c67",
+        "primary_guest": "Marianne Best",
+        "roommates": "Grimes Raymond",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T11:39:13",
+        "booking_date": "2025-02-04T02:04:46"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d02fc519711c69adf",
+        "primary_guest": "Lilia Curry",
+        "roommates": "Sherry Mccarty",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T04:36:11",
+        "booking_date": "2025-02-08T12:02:32"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d2b9e2f0a310a8b01",
+        "primary_guest": "Santos Sawyer",
+        "roommates": "Kenya Kinney",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:46:35",
+        "booking_date": "2025-01-29T03:09:56"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7de86204b5416344c2",
+        "primary_guest": "Zelma Dawson",
+        "roommates": "Griffith Stephenson",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T12:45:48",
+        "booking_date": "2025-02-04T08:49:06"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d9407027184cde088",
+        "primary_guest": "Lydia Mayo",
+        "roommates": "Caroline Moss",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:34:34",
+        "booking_date": "2025-01-30T06:07:42"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d21b7a255f796d1ff",
+        "primary_guest": "Bishop Long",
+        "roommates": "Flora Sanford",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T07:07:40",
+        "booking_date": "2025-02-07T03:57:11"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7dcb663f6f51eddecb",
+        "primary_guest": "Valdez Riddle",
+        "roommates": "Leblanc Santana",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T11:52:02",
+        "booking_date": "2025-01-31T09:34:58"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7d04b167462c7c2587",
+        "primary_guest": "Melva Keller",
+        "roommates": "Lindsey Phillips",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T01:29:23",
+        "booking_date": "2025-01-30T12:44:18"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7db0efe694eb83cc8b",
+        "primary_guest": "Isabel Pace",
+        "roommates": "Mcknight Robbins",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T08:15:28",
+        "booking_date": "2025-02-05T08:46:50"
+      },
+      {
+        "id": 11,
+        "room_code": "67941f7d0f83ee6bafa652e0",
+        "primary_guest": "Becky Snyder",
+        "roommates": "April Bray",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T06:29:11",
+        "booking_date": "2025-01-28T12:56:51"
+      },
+      {
+        "id": 12,
+        "room_code": "67941f7d12ad9d7a64c36a32",
+        "primary_guest": "Brooks Craft",
+        "roommates": "Black Palmer",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T03:51:10",
+        "booking_date": "2025-01-26T09:52:41"
+      },
+      {
+        "id": 13,
+        "room_code": "67941f7d79d54c8e35e702a0",
+        "primary_guest": "Minnie Russo",
+        "roommates": "Moss Jennings",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T04:40:36",
+        "booking_date": "2025-02-03T02:17:35"
+      },
+      {
+        "id": 14,
+        "room_code": "67941f7da0827365f3e4a0c0",
+        "primary_guest": "Watson Ferrell",
+        "roommates": "Zimmerman Koch",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T02:51:33",
+        "booking_date": "2025-02-01T03:28:32"
+      },
+      {
+        "id": 15,
+        "room_code": "67941f7d0708076d92eef868",
+        "primary_guest": "Celia Wagner",
+        "roommates": "Jordan Witt",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T09:26:07",
+        "booking_date": "2025-02-06T01:47:11"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "ART-2027-4-67941f7d600308019088537f",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "All-Access - Some Music Event",
+      "event_start_date": "2025-06-08T09:01:04",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/232/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 3,
+    "status_id": 1,
+    "rfp_id": 7837,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-02-22T10:44:09",
+    "modified_at": "2025-04-02T12:30:15",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d81d0bb291cb173ef",
+        "primary_guest": "Darcy Horne",
+        "roommates": "Benton Wilkinson",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T06:08:33",
+        "booking_date": "2025-01-25T07:10:46"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7da9e16a5050f886bd",
+        "primary_guest": "Margaret Cherry",
+        "roommates": "Beck Stark",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T03:40:50",
+        "booking_date": "2025-01-27T06:18:44"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7dbb821234aac0e26c",
+        "primary_guest": "Gaines Robinson",
+        "roommates": "Pace Holcomb",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T12:29:15",
+        "booking_date": "2025-02-01T06:42:13"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7dc2dee93e4271801f",
+        "primary_guest": "Maynard Young",
+        "roommates": "Lambert Walls",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T09:47:10",
+        "booking_date": "2025-01-25T12:40:32"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7d31cc092e95041947",
+        "primary_guest": "Vera Britt",
+        "roommates": "Whitfield Bartlett",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T11:18:56",
+        "booking_date": "2025-02-09T10:58:40"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7dbe51a470b05db4ca",
+        "primary_guest": "Galloway Mcgee",
+        "roommates": "Tran Miranda",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T12:56:11",
+        "booking_date": "2025-02-03T06:36:02"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d260c8c74ddaec47f",
+        "primary_guest": "Hester Miles",
+        "roommates": "Audra Rocha",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T11:01:28",
+        "booking_date": "2025-01-29T07:31:01"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "ART-2025-11-67941f7d19e59a5d849d8997",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "Backstage Artist - Some Art Event",
+      "event_start_date": "2025-07-15T03:13:00",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/819/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 4,
+    "status_id": 1,
+    "rfp_id": 11306,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-04-28T02:45:45",
+    "modified_at": "2025-04-12T01:55:02",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7dedb9ed436fad28c0",
+        "primary_guest": "Katrina Branch",
+        "roommates": "Verna Valenzuela",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T05:15:47",
+        "booking_date": "2025-02-07T10:13:14"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d450945a84bd4ebe2",
+        "primary_guest": "Barlow Carson",
+        "roommates": "Lessie Robles",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T07:19:20",
+        "booking_date": "2025-02-04T07:45:51"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7df5aaf5d31b342d5d",
+        "primary_guest": "Ana Webster",
+        "roommates": "Schwartz Brown",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T05:33:38",
+        "booking_date": "2025-01-28T12:59:08"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7dfc41be71e47face2",
+        "primary_guest": "Allen Kane",
+        "roommates": "Joann Mcneil",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T01:57:14",
+        "booking_date": "2025-02-02T11:01:39"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7d5c5678a94dc6ea33",
+        "primary_guest": "Margarita Fisher",
+        "roommates": "Reba Small",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T12:16:41",
+        "booking_date": "2025-02-02T01:43:03"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d695b7c8d14c5ae55",
+        "primary_guest": "Olsen Stone",
+        "roommates": "Katheryn Hampton",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T07:55:15",
+        "booking_date": "2025-02-04T08:17:23"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d77d51f4676a17780",
+        "primary_guest": "Josie Strickland",
+        "roommates": "Amalia Montoya",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T07:05:23",
+        "booking_date": "2025-01-25T02:45:03"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7db0447947d92b94a6",
+        "primary_guest": "Trisha Blevins",
+        "roommates": "Christine Dalton",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T09:52:58",
+        "booking_date": "2025-02-02T06:30:29"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7dfdd552c4ab96b5e3",
+        "primary_guest": "Hunt Decker",
+        "roommates": "Merle Lloyd",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T11:15:50",
+        "booking_date": "2025-02-09T12:41:44"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2027-3-67941f7d294b9d9db9606df5",
+      "event_name": "Lollapalooza",
+      "event_internal_name": "All-Access - Some Art Event",
+      "event_start_date": "2025-09-10T05:27:43",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "leisure",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/200/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 5,
+    "status_id": 1,
+    "rfp_id": 2485,
+    "hotel_id": 1,
+    "platform_id": 1,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-04-18T12:25:48",
+    "modified_at": "2025-03-04T06:37:03",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d882e5632a36a56a2",
+        "primary_guest": "John Guy",
+        "roommates": "Antoinette Fry",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T10:25:55",
+        "booking_date": "2025-02-07T07:22:47"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7db5aaf88bb4186a0b",
+        "primary_guest": "Annmarie Barrera",
+        "roommates": "Mavis Santos",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T09:16:54",
+        "booking_date": "2025-02-09T08:42:16"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d5853b971655736f2",
+        "primary_guest": "Aileen Watson",
+        "roommates": "Burgess Winters",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T12:36:44",
+        "booking_date": "2025-02-05T08:06:58"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7dabb0b75b5e8563b2",
+        "primary_guest": "Frazier Collins",
+        "roommates": "Pearson Simmons",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T01:20:48",
+        "booking_date": "2025-02-06T07:12:55"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2025-10-67941f7d436189a61dd1c801",
+      "event_name": "Lollapalooza",
+      "event_internal_name": "Backstage Staff - Some Music Event",
+      "event_start_date": "2025-06-06T08:28:07",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "leisure",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/113/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 6,
+    "status_id": 1,
+    "rfp_id": 10427,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-04-14T11:05:42",
+    "modified_at": "2025-03-29T03:57:20",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d526b88e7da6fa33d",
+        "primary_guest": "Pierce Levine",
+        "roommates": "Salazar Quinn",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T03:51:28",
+        "booking_date": "2025-01-28T11:40:07"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7decf15a9c4c2d12e2",
+        "primary_guest": "Hines Boone",
+        "roommates": "Pauline Cooley",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T02:27:55",
+        "booking_date": "2025-01-26T01:03:39"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d399e4f3a7d9fad48",
+        "primary_guest": "Latonya Rivas",
+        "roommates": "Lavonne Dotson",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T03:31:12",
+        "booking_date": "2025-02-07T10:09:20"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7dc49198a2558a91b7",
+        "primary_guest": "Jocelyn Mcdowell",
+        "roommates": "Janice Cummings",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T12:31:33",
+        "booking_date": "2025-02-09T06:14:43"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7de18bd4076bd82f9f",
+        "primary_guest": "Gayle Mejia",
+        "roommates": "Grant King",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T08:29:45",
+        "booking_date": "2025-01-30T06:32:19"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d33ea0f3677374956",
+        "primary_guest": "Gwendolyn Douglas",
+        "roommates": "Singleton Hardin",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T06:42:05",
+        "booking_date": "2025-01-28T01:17:57"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d798b051ac5449af7",
+        "primary_guest": "Brittany Carrillo",
+        "roommates": "Rochelle Taylor",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T03:56:47",
+        "booking_date": "2025-01-30T01:05:14"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7dcc6bd3112f9cb7c8",
+        "primary_guest": "Bates Sloan",
+        "roommates": "Theresa Martinez",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T09:30:52",
+        "booking_date": "2025-01-28T01:48:48"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7d0543209d7eff1412",
+        "primary_guest": "Cruz Sparks",
+        "roommates": "Rosella Monroe",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T07:51:48",
+        "booking_date": "2025-02-01T05:01:35"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7d4b7fd76b4349b819",
+        "primary_guest": "Mcfadden Woods",
+        "roommates": "Millie Mcgowan",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T07:32:46",
+        "booking_date": "2025-01-28T05:01:11"
+      },
+      {
+        "id": 11,
+        "room_code": "67941f7d6cb390bcc605c8c2",
+        "primary_guest": "Pena Barton",
+        "roommates": "Linda Swanson",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T11:23:16",
+        "booking_date": "2025-01-25T03:46:48"
+      },
+      {
+        "id": 12,
+        "room_code": "67941f7d2d7db7c41281f283",
+        "primary_guest": "Gregory Wyatt",
+        "roommates": "Betty Ochoa",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T01:52:56",
+        "booking_date": "2025-02-01T04:53:38"
+      },
+      {
+        "id": 13,
+        "room_code": "67941f7d412333b7eef2f04f",
+        "primary_guest": "Kerri Gillespie",
+        "roommates": "Rebecca Stevenson",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T05:53:42",
+        "booking_date": "2025-02-03T10:21:48"
+      },
+      {
+        "id": 14,
+        "room_code": "67941f7d9fedf24c2866d4ea",
+        "primary_guest": "Meyer Paul",
+        "roommates": "Jill Heath",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T05:08:21",
+        "booking_date": "2025-02-04T03:02:15"
+      },
+      {
+        "id": 15,
+        "room_code": "67941f7d8ff8655d7da4e77f",
+        "primary_guest": "Ladonna Dean",
+        "roommates": "Hodges Gutierrez",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T04:55:44",
+        "booking_date": "2025-02-06T06:16:19"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "STA-2026-1-67941f7df6b95ef614abfdc4",
+      "event_name": "FIFA 2026",
+      "event_internal_name": "All-Access - Some Charity Event",
+      "event_start_date": "2025-11-13T09:22:24",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/120/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 7,
+    "status_id": 1,
+    "rfp_id": 17945,
+    "hotel_id": 1,
+    "platform_id": 3,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-02-24T04:31:12",
+    "modified_at": "2025-04-20T08:20:21",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d99075ed89c327190",
+        "primary_guest": "Jan Powell",
+        "roommates": "Kelley Mendoza",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T06:48:11",
+        "booking_date": "2025-01-29T02:21:31"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7dfebf606e28ed7ac5",
+        "primary_guest": "Shelton Jacobson",
+        "roommates": "Sheena Garza",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:17:25",
+        "booking_date": "2025-01-27T02:18:07"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7db7b44aa07723d0b3",
+        "primary_guest": "Karen Odonnell",
+        "roommates": "Skinner Sherman",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T11:30:45",
+        "booking_date": "2025-02-03T10:41:47"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d5b68dfbe0f746725",
+        "primary_guest": "Alta Potts",
+        "roommates": "Tami Petty",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T09:14:29",
+        "booking_date": "2025-02-01T02:05:52"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7dc6f1b034a62cb9a2",
+        "primary_guest": "Melinda Walsh",
+        "roommates": "Lorene Peterson",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T09:52:55",
+        "booking_date": "2025-02-07T12:33:00"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2027-2-67941f7d95d6491622d735c4",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "All-Access - Some Art Event",
+      "event_start_date": "2025-08-20T02:22:43",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "artist",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/627/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 8,
+    "status_id": 2,
+    "rfp_id": 19354,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-01-30T10:05:30",
+    "modified_at": "2025-02-16T03:13:19",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7db53d3255f5bfaea9",
+        "primary_guest": "Stout George",
+        "roommates": "Wells Lowe",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:25:02",
+        "booking_date": "2025-01-29T05:47:14"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7de55014046cd88e3c",
+        "primary_guest": "Baird Wells",
+        "roommates": "Elva Fischer",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T05:24:45",
+        "booking_date": "2025-02-07T12:50:31"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d4c5394247a06f49d",
+        "primary_guest": "Paige Church",
+        "roommates": "Martha Duran",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T04:26:04",
+        "booking_date": "2025-01-27T11:28:51"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d42b2adffb8650d3f",
+        "primary_guest": "Velasquez Shepherd",
+        "roommates": "Gordon Guerra",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T10:47:42",
+        "booking_date": "2025-01-27T01:15:16"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7d399942806b27d33b",
+        "primary_guest": "Marie Bowers",
+        "roommates": "Vega Harrell",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T09:15:13",
+        "booking_date": "2025-01-30T04:21:23"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d3762e59f0c872525",
+        "primary_guest": "Wolfe Nguyen",
+        "roommates": "Scott Chapman",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T07:01:01",
+        "booking_date": "2025-01-31T10:17:51"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2026-1-67941f7dc0b0c9683014bfe6",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "Backstage Artist - Some Game Event",
+      "event_start_date": "2025-09-08T05:55:33",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "leisure",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/50/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 9,
+    "status_id": 1,
+    "rfp_id": 3595,
+    "hotel_id": 1,
+    "platform_id": 3,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-04-06T03:33:01",
+    "modified_at": "2025-04-15T02:41:59",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d707a94d907eb354c",
+        "primary_guest": "Snider Bass",
+        "roommates": "Silvia Roberts",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T08:39:48",
+        "booking_date": "2025-02-08T07:01:37"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d863d131c7530035c",
+        "primary_guest": "Larsen Solomon",
+        "roommates": "Wheeler Coffey",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T04:08:18",
+        "booking_date": "2025-02-02T08:32:34"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d954633bb2eb26709",
+        "primary_guest": "Vance Ingram",
+        "roommates": "Ola Whitaker",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T03:30:34",
+        "booking_date": "2025-01-24T09:29:00"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7de08663d03ae704e6",
+        "primary_guest": "Annie Mckinney",
+        "roommates": "Jana Morrison",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T11:18:30",
+        "booking_date": "2025-02-03T11:55:25"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7decb75d2cae6259ac",
+        "primary_guest": "Hammond Conner",
+        "roommates": "Cortez Contreras",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T01:59:50",
+        "booking_date": "2025-01-25T01:41:35"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d1470f32cba2ab555",
+        "primary_guest": "Wendi Blackwell",
+        "roommates": "Ines Stanley",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T06:22:07",
+        "booking_date": "2025-02-04T06:13:05"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7dfdcff8480514b3bc",
+        "primary_guest": "Mueller Carter",
+        "roommates": "Elvira Norris",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T06:36:53",
+        "booking_date": "2025-02-05T01:52:45"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7d54cc1141fc8a0bd3",
+        "primary_guest": "Drake Neal",
+        "roommates": "Branch Walton",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T12:21:43",
+        "booking_date": "2025-02-02T11:26:23"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7d8a04796b7f4bb40d",
+        "primary_guest": "Aline Mueller",
+        "roommates": "Matthews Payne",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T05:43:38",
+        "booking_date": "2025-01-30T09:35:36"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7d39174005f7bfffd3",
+        "primary_guest": "Reese Wilkerson",
+        "roommates": "Macdonald Silva",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T11:10:04",
+        "booking_date": "2025-02-08T01:26:42"
+      },
+      {
+        "id": 11,
+        "room_code": "67941f7d74384b5daaee7e5e",
+        "primary_guest": "Christina Melton",
+        "roommates": "Sparks Diaz",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T06:41:29",
+        "booking_date": "2025-02-08T11:07:08"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2026-2-67941f7d13dafebc4aac1b0c",
+      "event_name": "Ultra Festival",
+      "event_internal_name": "Backstage Staff - Some Sport Event",
+      "event_start_date": "2025-04-23T02:45:13",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "artist",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/660/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 10,
+    "status_id": 1,
+    "rfp_id": 2752,
+    "hotel_id": 1,
+    "platform_id": 3,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-02-07T06:56:03",
+    "modified_at": "2025-03-14T04:24:49",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d5fe37e190ac9c482",
+        "primary_guest": "Hunter Mays",
+        "roommates": "Burke Reilly",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T09:09:35",
+        "booking_date": "2025-01-28T07:18:47"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d98035d7187d73285",
+        "primary_guest": "Constance Tyson",
+        "roommates": "Velez Beck",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T10:43:43",
+        "booking_date": "2025-01-25T04:25:22"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7db2bbb3f88c9f463d",
+        "primary_guest": "Boone Ramos",
+        "roommates": "Ashley Gross",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T08:02:38",
+        "booking_date": "2025-01-24T09:49:18"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7dd3ed8da45cdd5ecf",
+        "primary_guest": "Payne Frazier",
+        "roommates": "Lancaster Hall",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T10:24:30",
+        "booking_date": "2025-02-08T02:12:46"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7db872797fbc860da3",
+        "primary_guest": "Esther Moon",
+        "roommates": "Prince Bailey",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T06:46:30",
+        "booking_date": "2025-01-26T08:10:04"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d5ee49c2441967867",
+        "primary_guest": "James Jimenez",
+        "roommates": "Jewell Humphrey",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T09:25:19",
+        "booking_date": "2025-02-06T05:41:21"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d8e9ffb494617124b",
+        "primary_guest": "Mccarty Nolan",
+        "roommates": "Shana Aguilar",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T11:34:53",
+        "booking_date": "2025-01-29T04:20:49"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7dc7abb92f40b805dc",
+        "primary_guest": "Ada Mcbride",
+        "roommates": "Vincent Pugh",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:36:54",
+        "booking_date": "2025-01-26T12:16:12"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7dd0e690190e3fe4a8",
+        "primary_guest": "Marisol Goodman",
+        "roommates": "Laurie Lott",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T01:54:09",
+        "booking_date": "2025-02-02T03:53:15"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7dd7a23dd96adbc7eb",
+        "primary_guest": "Elnora Owen",
+        "roommates": "Owens Bowman",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T03:43:36",
+        "booking_date": "2025-02-01T01:55:00"
+      },
+      {
+        "id": 11,
+        "room_code": "67941f7da020f6945356639b",
+        "primary_guest": "Sara Meyer",
+        "roommates": "Anita Mullen",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T02:00:45",
+        "booking_date": "2025-02-04T01:12:31"
+      },
+      {
+        "id": 12,
+        "room_code": "67941f7d4cad64e4d9d02795",
+        "primary_guest": "Brittney Riggs",
+        "roommates": "Hays Richmond",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T06:01:41",
+        "booking_date": "2025-01-28T01:11:22"
+      },
+      {
+        "id": 13,
+        "room_code": "67941f7d3453b6299ce5a08a",
+        "primary_guest": "Reilly Cooper",
+        "roommates": "Bridgett Moore",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T08:30:54",
+        "booking_date": "2025-01-29T01:30:01"
+      },
+      {
+        "id": 14,
+        "room_code": "67941f7d48f7b375acd455d5",
+        "primary_guest": "Miriam Cash",
+        "roommates": "Casey Hayden",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T03:54:41",
+        "booking_date": "2025-02-07T04:24:40"
+      },
+      {
+        "id": 15,
+        "room_code": "67941f7db927b17787a7bb4b",
+        "primary_guest": "Patton Gates",
+        "roommates": "Guy Kirkland",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T05:35:18",
+        "booking_date": "2025-02-02T09:46:13"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2027-3-67941f7da4d3d4219771f7a2",
+      "event_name": "Lollapalooza",
+      "event_internal_name": "Backstage Staff - Some Music Event",
+      "event_start_date": "2025-08-13T02:21:43",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/161/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 11,
+    "status_id": 1,
+    "rfp_id": 12648,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-04-14T02:10:16",
+    "modified_at": "2025-02-25T05:51:01",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7df46b5be7a82fd650",
+        "primary_guest": "Vargas Grant",
+        "roommates": "Maryann Gonzalez",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T09:57:44",
+        "booking_date": "2025-02-09T02:53:29"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7de1ed8f7fd970c547",
+        "primary_guest": "Tamara Morin",
+        "roommates": "Moreno Day",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T08:58:47",
+        "booking_date": "2025-01-27T05:09:33"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d18e6a2aa6d2bea55",
+        "primary_guest": "Everett Compton",
+        "roommates": "Powell Jensen",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T08:39:35",
+        "booking_date": "2025-01-29T11:51:56"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7dda80707db872d341",
+        "primary_guest": "Virginia Oliver",
+        "roommates": "Curry Gamble",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T07:56:44",
+        "booking_date": "2025-02-06T10:55:46"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7dd6ba27d009c7064a",
+        "primary_guest": "Shannon Kelley",
+        "roommates": "Muriel Buckner",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T08:39:11",
+        "booking_date": "2025-01-31T11:40:37"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d43693711ad08c62e",
+        "primary_guest": "Sondra Solis",
+        "roommates": "Mitchell Sweet",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T06:06:00",
+        "booking_date": "2025-02-05T09:33:17"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d25fbb44999c0b1fc",
+        "primary_guest": "Elena Kirby",
+        "roommates": "Ellen Scott",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T01:12:05",
+        "booking_date": "2025-02-05T06:31:24"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2026-11-67941f7db283ba0468daf958",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "Backstage Staff - Some Game Event",
+      "event_start_date": "2025-07-17T11:49:06",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/438/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 12,
+    "status_id": 3,
+    "rfp_id": 20060,
+    "hotel_id": 1,
+    "platform_id": 3,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-02-21T04:54:13",
+    "modified_at": "2025-02-28T06:23:33",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d867793b56a869d26",
+        "primary_guest": "Erickson Bryant",
+        "roommates": "Brennan Foster",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T05:15:15",
+        "booking_date": "2025-01-27T05:01:35"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d348bf416d7f7eabb",
+        "primary_guest": "Ashley Bright",
+        "roommates": "Mcleod Dunlap",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T04:51:29",
+        "booking_date": "2025-01-28T06:34:44"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d022e99cad90aa25c",
+        "primary_guest": "Rosemarie Daugherty",
+        "roommates": "Barbra Sykes",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T10:08:59",
+        "booking_date": "2025-02-06T02:16:01"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "STA-2026-3-67941f7d27c13f1f69567142",
+      "event_name": "FIFA 2026",
+      "event_internal_name": "Backstage Staff - Some Charity Event",
+      "event_start_date": "2025-05-03T10:49:07",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "artist",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/541/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 13,
+    "status_id": 1,
+    "rfp_id": 1379,
+    "hotel_id": 1,
+    "platform_id": 1,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-03-21T06:01:19",
+    "modified_at": "2025-04-25T01:33:07",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d51e01a5e1037e7fb",
+        "primary_guest": "Stokes Hays",
+        "roommates": "Julia Ayers",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T06:18:36",
+        "booking_date": "2025-02-09T07:43:29"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7dce9f2eaeb2ccbf7a",
+        "primary_guest": "Shawna Moran",
+        "roommates": "Combs Hinton",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T02:44:49",
+        "booking_date": "2025-02-01T06:54:20"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7de8ad73a8299dce6c",
+        "primary_guest": "Snow Johnson",
+        "roommates": "Loraine Parrish",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T10:41:50",
+        "booking_date": "2025-02-03T02:19:46"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d4daefe9cd67544dd",
+        "primary_guest": "Elma Foley",
+        "roommates": "Pittman Garner",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T10:05:21",
+        "booking_date": "2025-01-26T05:12:08"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7dc48845824670ac4b",
+        "primary_guest": "Corine Lopez",
+        "roommates": "Roach Martin",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T02:51:15",
+        "booking_date": "2025-02-09T11:54:32"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d03f8248f883c46a4",
+        "primary_guest": "Monroe Leon",
+        "roommates": "Florine Donaldson",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T03:47:06",
+        "booking_date": "2025-02-01T06:00:16"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d61bffbbc295d0e76",
+        "primary_guest": "Leann Clemons",
+        "roommates": "Dixie Houston",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T03:28:09",
+        "booking_date": "2025-01-30T02:58:07"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7dd967edf49022d5bd",
+        "primary_guest": "Finch Hines",
+        "roommates": "Krista Mckee",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T11:22:09",
+        "booking_date": "2025-02-05T09:20:27"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "ART-2026-9-67941f7d281ef46288484914",
+      "event_name": "Ultra Festival",
+      "event_internal_name": "Backstage Staff - Some Sport Event",
+      "event_start_date": "2025-07-29T08:04:37",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "leisure",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/369/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 14,
+    "status_id": 1,
+    "rfp_id": 17050,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-03-21T01:50:51",
+    "modified_at": "2025-03-27T05:23:55",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7dbc0a7d42e320a6c0",
+        "primary_guest": "Leanna Drake",
+        "roommates": "Carey Walter",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T11:12:31",
+        "booking_date": "2025-02-03T01:23:10"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7dd1f21a84ddf40d65",
+        "primary_guest": "Blanche Kidd",
+        "roommates": "Marla Fowler",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T11:04:17",
+        "booking_date": "2025-02-02T12:50:39"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d087fae04fd4b9496",
+        "primary_guest": "Susanna Armstrong",
+        "roommates": "Stanley Dennis",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T11:14:28",
+        "booking_date": "2025-02-02T04:58:11"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d8633ae14606a93d5",
+        "primary_guest": "Kathy Boyle",
+        "roommates": "Gabriela Kennedy",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T01:33:55",
+        "booking_date": "2025-02-06T07:23:48"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7dc20811615414e227",
+        "primary_guest": "Cecelia Casey",
+        "roommates": "Carlene Zamora",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T09:44:59",
+        "booking_date": "2025-01-26T07:53:50"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7df99d486aa6411c01",
+        "primary_guest": "Jeanette Knowles",
+        "roommates": "Celina Bryan",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T09:48:12",
+        "booking_date": "2025-01-28T02:52:35"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7da9955b00a90f5667",
+        "primary_guest": "Lucia Fuller",
+        "roommates": "Walls Wong",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T06:39:08",
+        "booking_date": "2025-02-03T12:20:58"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7dd299a1d8244ea468",
+        "primary_guest": "Sue Evans",
+        "roommates": "Knox Harmon",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T03:18:01",
+        "booking_date": "2025-01-26T08:13:24"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7df855e80d01d32c22",
+        "primary_guest": "Edna Frank",
+        "roommates": "Kirk Rush",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T03:12:42",
+        "booking_date": "2025-02-07T07:44:10"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "STA-2026-6-67941f7d083a76ad914b0191",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "Backstage Artist - Some Game Event",
+      "event_start_date": "2025-04-25T06:31:57",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/325/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 15,
+    "status_id": 1,
+    "rfp_id": 22148,
+    "hotel_id": 1,
+    "platform_id": 1,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-04-09T01:51:49",
+    "modified_at": "2025-03-11T01:36:27",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d0f90ff476a43f9e3",
+        "primary_guest": "Cecile Beard",
+        "roommates": "Renee Preston",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T11:13:00",
+        "booking_date": "2025-01-25T10:55:06"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d78a35984c205ccc9",
+        "primary_guest": "Hurley Pittman",
+        "roommates": "Freeman Santiago",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T12:52:38",
+        "booking_date": "2025-01-31T04:31:11"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7dc8c1c55ee31f6777",
+        "primary_guest": "Key Jefferson",
+        "roommates": "Davidson Lancaster",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T12:20:33",
+        "booking_date": "2025-01-26T10:07:38"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7df22afe3accabee7c",
+        "primary_guest": "Lawrence Barnett",
+        "roommates": "Roslyn Roy",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T01:11:55",
+        "booking_date": "2025-02-03T06:39:17"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7d7f1c922d4a6f285e",
+        "primary_guest": "Emerson Davidson",
+        "roommates": "Harris Rutledge",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:32:47",
+        "booking_date": "2025-01-25T04:00:49"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7db777c2e86e3955a4",
+        "primary_guest": "Berry Travis",
+        "roommates": "Sharp Cunningham",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T06:26:20",
+        "booking_date": "2025-02-05T08:54:30"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7de494f6e3b52c1835",
+        "primary_guest": "Stark Bentley",
+        "roommates": "Wilcox Davis",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T09:06:38",
+        "booking_date": "2025-01-28T06:47:50"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7d659197a2dc65c3b5",
+        "primary_guest": "Jeannette Sellers",
+        "roommates": "Jayne Salinas",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T05:04:17",
+        "booking_date": "2025-01-31T12:10:16"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7df374b45fca7e10fd",
+        "primary_guest": "Holloway Walters",
+        "roommates": "Keri Osborne",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T04:55:51",
+        "booking_date": "2025-02-03T04:37:39"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7dd39b6763a430479e",
+        "primary_guest": "Erna Cantrell",
+        "roommates": "Ava Kerr",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T09:10:50",
+        "booking_date": "2025-01-30T11:34:15"
+      },
+      {
+        "id": 11,
+        "room_code": "67941f7d4a1d2122d858b99a",
+        "primary_guest": "Olson Fields",
+        "roommates": "Elba Shepard",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T07:57:45",
+        "booking_date": "2025-01-30T03:21:56"
+      },
+      {
+        "id": 12,
+        "room_code": "67941f7d86dedde03745921b",
+        "primary_guest": "Leona Acosta",
+        "roommates": "Michael Roth",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T08:57:03",
+        "booking_date": "2025-02-05T01:28:32"
+      },
+      {
+        "id": 13,
+        "room_code": "67941f7dd08dbe7f6ab878f3",
+        "primary_guest": "Esmeralda Ballard",
+        "roommates": "Stein Reyes",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T10:25:28",
+        "booking_date": "2025-02-08T02:54:17"
+      },
+      {
+        "id": 14,
+        "room_code": "67941f7d8f2754e6eeb702af",
+        "primary_guest": "Jones Becker",
+        "roommates": "Daisy Arnold",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T09:08:11",
+        "booking_date": "2025-02-09T11:30:51"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "STA-2025-3-67941f7da37c8818c35494fb",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "Backstage Staff - Some Charity Event",
+      "event_start_date": "2025-08-30T08:17:19",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "artist",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/58/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 16,
+    "status_id": 1,
+    "rfp_id": 12274,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-03-27T11:06:16",
+    "modified_at": "2025-03-26T03:28:22",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7df8cd7ec16b3d4d2e",
+        "primary_guest": "Karla Peters",
+        "roommates": "Tabatha Waller",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T06:26:04",
+        "booking_date": "2025-02-07T03:26:49"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7df1e43ea1221327aa",
+        "primary_guest": "Elisabeth Anderson",
+        "roommates": "Bethany Orr",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T04:23:23",
+        "booking_date": "2025-02-09T09:01:12"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d25d1078c328175fb",
+        "primary_guest": "Luna Wilkins",
+        "roommates": "Kim Trujillo",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T10:08:37",
+        "booking_date": "2025-02-02T09:16:48"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "STA-2026-2-67941f7d052901b0e755d903",
+      "event_name": "FIFA 2026",
+      "event_internal_name": "Backstage Staff - Some Game Event",
+      "event_start_date": "2025-06-24T07:06:38",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "artist",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/822/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 17,
+    "status_id": 1,
+    "rfp_id": 15470,
+    "hotel_id": 1,
+    "platform_id": 2,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-03-18T01:32:42",
+    "modified_at": "2025-03-16T08:43:18",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d04e77188474d993c",
+        "primary_guest": "Robbins Hubbard",
+        "roommates": "Lesa Short",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T01:59:26",
+        "booking_date": "2025-01-29T04:57:08"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d29d560eb68f9cfb2",
+        "primary_guest": "Frieda Mcdaniel",
+        "roommates": "Allison Love",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T03:13:04",
+        "booking_date": "2025-02-09T06:57:29"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d5771c75c69e41a10",
+        "primary_guest": "Kelly Galloway",
+        "roommates": "Sullivan Page",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T04:06:06",
+        "booking_date": "2025-02-04T06:01:23"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2025-8-67941f7d872ee1bba5d3193b",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "All-Access - Some Music Event",
+      "event_start_date": "2025-07-26T11:42:07",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "artist",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/406/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 18,
+    "status_id": 1,
+    "rfp_id": 9256,
+    "hotel_id": 1,
+    "platform_id": 3,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-04-28T02:01:27",
+    "modified_at": "2025-02-14T11:44:59",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7d18ff991aedffc26b",
+        "primary_guest": "Brandi Oneill",
+        "roommates": "Patrice Griffith",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T03:45:05",
+        "booking_date": "2025-01-27T06:49:28"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7d39dd234e46d5463e",
+        "primary_guest": "Mckinney Morton",
+        "roommates": "Mildred Mcleod",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T10:33:56",
+        "booking_date": "2025-02-01T11:16:51"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7da108c36341f91325",
+        "primary_guest": "Lisa Curtis",
+        "roommates": "Hood Alexander",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T01:42:09",
+        "booking_date": "2025-02-04T06:56:23"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d333ccfae47dbbc7a",
+        "primary_guest": "Manning Simon",
+        "roommates": "Carolyn Lawrence",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T10:12:42",
+        "booking_date": "2025-02-06T10:39:21"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7de5f501dd836d07d0",
+        "primary_guest": "Brewer Head",
+        "roommates": "Robles Mcclain",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T12:09:41",
+        "booking_date": "2025-02-07T03:23:50"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d8f04661cde5eb2a6",
+        "primary_guest": "Morton Ray",
+        "roommates": "Fisher Norton",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:53:59",
+        "booking_date": "2025-02-04T04:19:51"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7d29c9ac04add6e66a",
+        "primary_guest": "Alma Massey",
+        "roommates": "Cherie Tran",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T08:53:32",
+        "booking_date": "2025-02-01T03:01:53"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7dbe31b4723ba10cb4",
+        "primary_guest": "Marks Vazquez",
+        "roommates": "Blanchard Welch",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T01:07:05",
+        "booking_date": "2025-02-04T10:31:58"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7db4fa0d6d344de221",
+        "primary_guest": "Chambers Padilla",
+        "roommates": "Boyer Rodgers",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T01:13:03",
+        "booking_date": "2025-02-05T07:47:54"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7d0e1790dd05e65f0e",
+        "primary_guest": "Debbie Pickett",
+        "roommates": "Witt Gibson",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T05:36:46",
+        "booking_date": "2025-01-29T10:59:31"
+      },
+      {
+        "id": 11,
+        "room_code": "67941f7d34b64f555ed6172d",
+        "primary_guest": "Lena Smith",
+        "roommates": "Jo Case",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T11:48:07",
+        "booking_date": "2025-01-26T03:48:07"
+      },
+      {
+        "id": 12,
+        "room_code": "67941f7da7bfb7c45d8a0540",
+        "primary_guest": "Johnson Gilmore",
+        "roommates": "Maryellen Cantu",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:04:37",
+        "booking_date": "2025-01-31T02:15:32"
+      },
+      {
+        "id": 13,
+        "room_code": "67941f7d0857e7c503d88c3a",
+        "primary_guest": "Burch Fuentes",
+        "roommates": "Dorothea Mclaughlin",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T10:32:44",
+        "booking_date": "2025-01-27T01:28:33"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "LEI-2027-4-67941f7d5556fff11e9a81a4",
+      "event_name": "Rolling Loud",
+      "event_internal_name": "Backstage Staff - Some Game Event",
+      "event_start_date": "2025-10-09T09:14:07",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "leisure",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/700/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 19,
+    "status_id": 1,
+    "rfp_id": 15644,
+    "hotel_id": 1,
+    "platform_id": 1,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-03-06T11:00:51",
+    "modified_at": "2025-04-25T04:44:21",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7dd327feb6d994fbf8",
+        "primary_guest": "Althea Bonner",
+        "roommates": "Fuller Estrada",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T08:03:03",
+        "booking_date": "2025-02-01T04:47:19"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7daf75ceb9c034e429",
+        "primary_guest": "Courtney Hardy",
+        "roommates": "Bette Stephens",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T11:30:23",
+        "booking_date": "2025-01-28T11:18:39"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7dd44487fddc49562e",
+        "primary_guest": "Hodge Mcintyre",
+        "roommates": "Michael Stanton",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T07:17:49",
+        "booking_date": "2025-02-02T03:01:52"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d842e2a4b7db7c35f",
+        "primary_guest": "Jeanne Tanner",
+        "roommates": "Betsy Gregory",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T10:27:27",
+        "booking_date": "2025-01-28T08:00:43"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7d34173697824ce58a",
+        "primary_guest": "Araceli Simpson",
+        "roommates": "Bruce Gallegos",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-26T07:21:51",
+        "booking_date": "2025-01-25T06:59:40"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d1c68225a0d66fadc",
+        "primary_guest": "Leila Sexton",
+        "roommates": "Kristine Rios",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T11:43:49",
+        "booking_date": "2025-01-28T11:37:36"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7ddde22fcbb1051271",
+        "primary_guest": "Bessie Woodard",
+        "roommates": "Bertha Lara",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T01:24:35",
+        "booking_date": "2025-02-06T08:11:58"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7d718db29b48248cb7",
+        "primary_guest": "Keith Patterson",
+        "roommates": "Denise Olsen",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T12:20:53",
+        "booking_date": "2025-01-31T01:43:13"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7daa47b9194af3a337",
+        "primary_guest": "Edith Stokes",
+        "roommates": "Spears Hatfield",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T05:44:41",
+        "booking_date": "2025-02-02T11:20:56"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7de9118e9d7fcc7cc2",
+        "primary_guest": "Edwina Calhoun",
+        "roommates": "Cora Bernard",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T08:52:56",
+        "booking_date": "2025-01-31T07:30:56"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "STA-2027-10-67941f7dcd4a45dfcccfcff4",
+      "event_name": "Ultra Festival",
+      "event_internal_name": "All-Access - Some Art Event",
+      "event_start_date": "2025-12-14T11:04:54",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "staff",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/658/agreement/agreement.pdf"
+    }
+  },
+  {
+    "id": 20,
+    "status_id": 1,
+    "rfp_id": 22498,
+    "hotel_id": 1,
+    "platform_id": 1,
+    "cutoff_date": "2026-05-20T12:00:00",
+    "created_at": "2025-02-16T09:47:54",
+    "modified_at": "2025-02-11T11:33:18",
+    "drl_rooming_list_bookings": [
+      {
+        "id": 1,
+        "room_code": "67941f7dd70a8758d3d5de7b",
+        "primary_guest": "Ross Suarez",
+        "roommates": "Becker Black",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-24T02:32:54",
+        "booking_date": "2025-02-01T09:22:08"
+      },
+      {
+        "id": 2,
+        "room_code": "67941f7dfd7a1c892c1df838",
+        "primary_guest": "Selma Hanson",
+        "roommates": "Elinor Maldonado",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T06:40:17",
+        "booking_date": "2025-02-04T12:52:47"
+      },
+      {
+        "id": 3,
+        "room_code": "67941f7d6b4fc4bf400c0c8a",
+        "primary_guest": "Nixon Carver",
+        "roommates": "Walters Webb",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T06:07:13",
+        "booking_date": "2025-02-07T01:27:46"
+      },
+      {
+        "id": 4,
+        "room_code": "67941f7d33e75ed0200265e1",
+        "primary_guest": "Fry Zimmerman",
+        "roommates": "Forbes Rivera",
+        "guests": 2,
+        "room_name": "Double Queen Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T02:04:39",
+        "booking_date": "2025-02-01T03:25:00"
+      },
+      {
+        "id": 5,
+        "room_code": "67941f7d05a9721e883f880e",
+        "primary_guest": "Diann Sosa",
+        "roommates": "Erika Byers",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T03:40:45",
+        "booking_date": "2025-01-27T09:46:42"
+      },
+      {
+        "id": 6,
+        "room_code": "67941f7d10494aa63a5fa9e8",
+        "primary_guest": "Mendoza Ratliff",
+        "roommates": "Kelli Dillard",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-22T08:55:00",
+        "booking_date": "2025-01-26T10:47:16"
+      },
+      {
+        "id": 7,
+        "room_code": "67941f7da82b65287eb5edca",
+        "primary_guest": "Lola Maddox",
+        "roommates": "Concepcion Potter",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-27T12:15:30",
+        "booking_date": "2025-02-07T08:02:08"
+      },
+      {
+        "id": 8,
+        "room_code": "67941f7d21789d1c1102e278",
+        "primary_guest": "Pearlie Castillo",
+        "roommates": "Molina Bradley",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T09:22:53",
+        "booking_date": "2025-01-28T11:22:42"
+      },
+      {
+        "id": 9,
+        "room_code": "67941f7ddfc3980bea04733d",
+        "primary_guest": "Tanya Good",
+        "roommates": "Andrews Franco",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T04:37:36",
+        "booking_date": "2025-01-30T05:27:54"
+      },
+      {
+        "id": 10,
+        "room_code": "67941f7dd0044f9a85195e0d",
+        "primary_guest": "Staci Thornton",
+        "roommates": "Williamson Crawford",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T05:41:53",
+        "booking_date": "2025-02-02T01:57:09"
+      },
+      {
+        "id": 11,
+        "room_code": "67941f7d83bdc12cde2dfea5",
+        "primary_guest": "Randolph Mullins",
+        "roommates": "Della Anthony",
+        "guests": 2,
+        "room_name": "Double Beds Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-23T02:46:36",
+        "booking_date": "2025-02-06T01:09:20"
+      },
+      {
+        "id": 12,
+        "room_code": "67941f7dc9067e483c287abd",
+        "primary_guest": "Callahan Blankenship",
+        "roommates": "Marshall Beach",
+        "guests": 2,
+        "room_name": "King Room",
+        "check_in": "2025-03-10T12:00:00",
+        "check_out": "2025-12-25T05:19:46",
+        "booking_date": "2025-01-26T07:11:42"
+      }
+    ],
+    "drl_rfp": {
+      "rfp_launchpad_id": "STA-2025-10-67941f7dc667cdf6266a42c4",
+      "event_name": "Lollapalooza",
+      "event_internal_name": "Backstage Artist - Some Music Event",
+      "event_start_date": "2025-08-20T03:03:22",
+      "event_end_date": "2026-07-15T12:00:00",
+      "agreement_type": "leisure",
+      "agreement_path": "https://launchpad.crewfare.com/eventid/527/agreement/agreement.pdf"
+    }
+  }
+]

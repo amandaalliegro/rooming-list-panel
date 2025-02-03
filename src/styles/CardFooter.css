@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bookings-agreement-btns {
+    @apply flex items-start gap-2 self-stretch;
+  }
+}

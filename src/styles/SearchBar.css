@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .icon {
+    @apply w-10 h-10 flex-shrink-0 fill-[#F9FBFF] stroke-[#E4ECF2] stroke-[1];
+  }
+
+  .input-box {
+    @apply flex w-[210px] lg:w-[280px] h-[48px] px-0 pr-4 pl-1 items-center gap-[10px] 
+           rounded-[12px] border border-[#E4ECF2] bg-white;
+
+          
+  }
+
+  .search-input {
+    @apply text-[14px] font-normal leading-[20px] text-[#777E90] 
+           bg-transparent outline-none w-full;
+    
+    font-family: "Poppins", sans-serif;
+  }
+}
