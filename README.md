@@ -65,13 +65,13 @@ rooming-list-panel/
 ## 🛠 Installation & Setup
 ### Clone the Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/rooming-list-panel.git
+git clone git@github.com:amandaalliegro/rooming-list-panel.git
 cd rooming-list-panel
 ```
 
 ### Install Dependencies
 ```sh
-npm install
+npm install --legacy-peer-deps
 ```
 
 ### Run the Development Server
