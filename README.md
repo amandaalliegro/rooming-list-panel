@@ -10,8 +10,8 @@ This is a **Next.js + TypeScript** project designed for managing rooming lists e
 ### Rooming List Management Panel View in mobile
 ![Rooming List Management Panel View in mobile](public/screenshots/iPhoneSE.png)
 
-### Show Agreenment Tooltip
-![Show Agreenment Tooltip](public/screenshots/ShowAgreenment_tooltip.png)
+### Show Agreement Tooltip
+![Show Agreement Tooltip](public/screenshots/ShowAgreement_tooltip.png)
 
 ### Filters Button Clicked with Dropdown Menu Opened
 ![Dropdown Menu Opened](public/screenshots/Filters_dropdown.png)
