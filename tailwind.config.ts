@@ -43,13 +43,29 @@ export default {
   },
   plugins: [
     require("tailwind-scrollbar"),
-    plugin(function ({ addComponents }) {
-      addComponents({
+    plugin(function ({ addUtilities }) {
+      const newUtilities = {
         ".custom-scrollbar": {
           "&::-webkit-scrollbar": {
             width: "8px",
+            height: "16px",
+            transition: "all 700ms ease-in-out",
+          },
+          "&::-webkit-scrollbar-button": {
+            display: "none",
+          },
+        },
+        ".scrollbar-webkit": {
+          "&::-webkit-scrollbar-track-piece": {
+            background: "#cdd4e5",
+            borderRadius: "9999px",
+            margin: "0 32px",
+            borderWidth: "6px 2px 6px 2px",
+            borderColor: "#f9fbff",
+            borderStyle: "solid",
           },
           "&::-webkit-scrollbar-thumb": {
+            minHeight: "16px",
             backgroundImage: `
               url('data:image/svg+xml,<svg width="4" height="10" viewBox="0 0 4 10" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="4" width="10" height="4" rx="2" transform="rotate(90 4 0)" fill="%23F9FBFF"/></svg>'),
               url('data:image/svg+xml,<svg width="4" height="10" viewBox="0 0 4 10" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="4" width="10" height="4" rx="2" transform="rotate(90 4 0)" fill="%23F9FBFF"/></svg>'),
@@ -60,16 +76,18 @@ export default {
             backgroundPosition:
               "calc(50% - 20px) center, center center, calc(50% + 20px) center",
             borderRadius: "4px",
-            transition: "all 0.3s ease-in-out", 
+            transition: "all 0.3s ease-in-out",
             "&:hover": {
               backgroundPosition:
                 "calc(50% - 30px) center, center center, calc(50% + 30px) center",
               borderRadius: "25px",
               backgroundColor: "#3E88F7",
+              minHeight: "16px", // Ensure height is maintained on hover
             },
           },
         },
-      });
+      };
+      addUtilities(newUtilities);
     }),
-  ],
+  ],  
 } satisfies Config;
