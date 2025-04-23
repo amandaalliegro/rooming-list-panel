@@ -1,6 +1,7 @@
 # Rooming List Panel
 
 This is a **Next.js + TypeScript** project designed for managing rooming lists efficiently. It features a clean UI built with **Tailwind CSS** and follows an **atomic design pattern** to organize components.
+Figma project link: https://www.figma.com/design/J8O42FgowgkLdrjAg404IJ/rooming-list?node-id=0-1&t=0XDR85AuDotDkaIa-1
 
 ## 📸 Screenshots
 
